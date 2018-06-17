@@ -7,5 +7,9 @@
     "start": "node app.js"
   },
   "author": "Eric Murphy",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.1.5"
+  }
 }
