@@ -12,6 +12,10 @@ main {
   font-size: 25px;
 }
 
+.ck-editor__editable {
+  min-height: 200px;
+}
+
 footer {
   margin-top: 20px;
 }
