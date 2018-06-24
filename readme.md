@@ -4,7 +4,7 @@ An app to post public and private stories to share with others or keep a persona
 
 Part of my #100DaysOfCode project. If you're interested, follow me on Twitter @ericnmurphy, I post lots of cool shit ✨
 
-
+Finished this one for now, catch it (for now) on https://shrouded-hollows-95114.herokuapp.com
 
 ---
 
